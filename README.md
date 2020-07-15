@@ -1,2 +1,2 @@
-# python-data-scraping-for-transfermarkt
-Python Data Scraping for Transfermarkt Web Site
+# python-web-scraping-for-transfermarkt
+Python Web Scraping for Transfermarkt Web Site
